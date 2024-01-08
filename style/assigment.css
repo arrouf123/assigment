@@ -104,5 +104,104 @@
     margin-left: auto;
     margin-right: auto;
     width: 50%;
+    display: flex;
+    background: #faf6f6;
 
+  }
+  .container5 .image-middle{
+    border: 20px;
+    margin: 20px;
+    padding: 40px;
+    background-color: white;
+    border-radius: 40px 40px 40px 40px;
+  }
+  .container6{
+    width: 70%;
+    height: auto;
+    position: relative;
+    position: relative;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    display: flex;
+    background: #faf6f6;
+
+  }
+  .container6 .flex{
+    display: flex;
+  }
+  
+  main{
+    width: 50%;
+    height: auto;
+    position: relative;
+    position: relative;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+   
+    
+    
+  }
+  main .image-flex{
+    display: flex;
+    font-size: 8px;
+    width: 100px;
+    height: 450px;
+    flex-shrink: 0; 
+    
+    
+  }
+
+  #hi .container8{
+    position: relative;
+     display: inline-block;
+    background: rgb(248, 240, 225);
+    position: relative;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+  }
+
+  #hi .container8 .hello{
+    position: relative;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100px;
+    padding: 20px;
+    font-size: 0;
+    
+  }
+  #hi .container8 .ji{
+    border: 20px;
+    text-align: center;
+  }
+  #hi .container8 .ki{
+    text-align: center;
+    border: 40px;
+    margin: 40px;
+    padding: 40px;
+  }
+  #hi .container8 .ok{
+    text-align: center;
+    height: 100px;
+    
+    
+  }
+  footer{
+    background: rgb(39, 32, 32);
+    width: 70%;
+    height: auto;
+    position: relative;
+    position: relative;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+  .container11 .footer-content2 .h3{
+    display: flex;
   }
